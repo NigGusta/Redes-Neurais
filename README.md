@@ -1,9 +1,4 @@
-# Redes-Neurais
-\br
-O objetivo deste exercício é treinar e avaliar uma rede neural para classificar um conjunto de dados sobre notícias de acordo com suas categorias.
-
 ETAPAS PARA REALIZAÇÃO:
-
 
 
 Carregamento e Pré-Processamento dos Dados:

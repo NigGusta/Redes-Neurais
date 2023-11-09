@@ -1,5 +1,5 @@
 ETAPAS PARA REALIZAÇÃO:
-
+** **
 
 Carregamento e Pré-Processamento dos Dados:
 
